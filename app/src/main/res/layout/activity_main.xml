@@ -21,8 +21,8 @@
 
     <EditText
         android:id="@+id/ETEntrada"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="253dp"
+        android:layout_height="81dp"
         android:layout_marginTop="140dp"
         android:ems="10"
         android:inputType="textPersonName"
